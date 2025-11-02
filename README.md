@@ -6,7 +6,7 @@
 
 **中文** | [English](README_EN.md)
 
-Telegram交流反馈群组: https://t.me/eooceu
+Telegram:@sciurine
 
 基于 Cloudflare Workers 的高性能 VLESS 代理服务
 
